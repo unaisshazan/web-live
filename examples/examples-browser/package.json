@@ -11,7 +11,7 @@
   "name": "examples-browser",
   "version": "1.0.0",
   "engines": {
-    "node": "0.10.x"
+    "node": "14.x"
   },
   "main": "server.js",
   "devDependencies": {},
